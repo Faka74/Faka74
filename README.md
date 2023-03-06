@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Facundo Taddia<br>🌱Skills : Html,Css,Bootstrap,Saas,Git,Javascript,Node,Npm,Netlify<br>🤝Student of Radium Rocket and Coderhouse<br>⚡ Rosario,Argentina<br>💬 Gmail : @Facundotaddia35@gmail.com
+🔭 Facundo Taddia<br>🌱Skills : Html,Css,Bootstrap,Saas,Git,Javascript,Node,Npm,Netlify<br>🤝Student of Coderhouse<br>⚡ Rosario,Argentina<br>💬 Gmail : @Facundotaddia35@gmail.com
 
 
 ## 🌐 Socials:
